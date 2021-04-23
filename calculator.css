@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(214,214,214);
+}
+.container{
+    width: 300px;
+    height:400px ;
+    margin:80px auto;
+    background: rgb(214,214,214);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #b6a9a9,-5px -5px 10px #fff ;
+}
+.cal-box{
+    width: 200px;
+    margin: 20px auto;
+}
+#display{
+    border: none;
+    outline: none;
+    color: black;
+    text-align: center;
+    height: 50px;
+    margin: 30px auto 20px auto;
+}
+.button{
+    margin: 15px 0 0 5px;
+    width: 40px;
+    height: 40px;
+}
